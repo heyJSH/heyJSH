@@ -1,4 +1,4 @@
-## 정수하 깃허브 <a id="waving">
+## 정수하 깃허브 <a id="정수하">
 
 ![정수하](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 

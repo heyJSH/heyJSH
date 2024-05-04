@@ -1,6 +1,6 @@
-## Waving <a id="waving">
+## 정수하 깃허브 <a id="waving">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![정수하](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div><h2>📚 STACKS</h2></div>
 

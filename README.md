@@ -33,4 +33,4 @@
 <div><h2>🐱 About Me</h2></div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jsh0210hey@gmail.com)](jsh0210hey@gmail.com)
-[![Notion Badge](https://mysterious-ticket-a52.notion.site/264f6943f124472a8cdd455cfe65ccd9?v=b757431d34c1443293c133ebf7daeb98&pvs=4)](https://mysterious-ticket-a52.notion.site/264f6943f124472a8cdd455cfe65ccd9?v=b757431d34c1443293c133ebf7daeb98&pvs=4)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://mysterious-ticket-a52.notion.site/264f6943f124472a8cdd455cfe65ccd9?v=b757431d34c1443293c133ebf7daeb98&pvs=4)](https://mysterious-ticket-a52.notion.site/264f6943f124472a8cdd455cfe65ccd9?v=b757431d34c1443293c133ebf7daeb98&pvs=4)

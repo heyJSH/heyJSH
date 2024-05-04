@@ -1,6 +1,6 @@
 <a id="waving">
 
-![정수하](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jeong SuHa's GitHub&fontAlign=80&fontAlignY=40&color=gradient)
+![정수하](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jeong%20SuHa's%20GitHub&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div><h2>📚 STACKS</h2></div>
 
